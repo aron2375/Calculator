@@ -1,0 +1,45 @@
+button {
+  font-size: 0.5cm;
+  width: 1.5cm;
+  height: 1.5cm;
+  border-radius: 12px;
+  background-color: rgb(185, 123, 243);
+  color: aliceblue;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  margin-bottom: 0.1cm;
+}
+
+.buttons {
+  margin-left: 0.25cm;
+  margin-top: 15px;
+}
+
+.container {
+  padding: 10px 10px;
+  width: 7cm;
+  height: 10.5cm;
+  background-color: blueviolet;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 25vh;
+  border-radius: 25px;
+  box-shadow: 6px 3px 6px;
+}
+
+#result {
+  margin-top: 0.25cm;
+  margin-bottom: 0.12cm;
+  height: 0.6cm;
+  border-radius: 12px;
+  padding-bottom: 6px;
+  box-shadow: 3px 3px 4px;
+  font-size: 20px;
+  padding-left: 10px;
+  text-align: left;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
